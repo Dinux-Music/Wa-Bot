@@ -43,7 +43,7 @@ let wibh = moment.tz('Asia/Karachi').format('HH')
 // if you don't have it, type "-" or leave it alone so that there are credits :v
 global.sig = 'https://instagram.com/itx_ahmad.ali' //Link Instagrammu
 global.sgh = 'https://github.com/xIKRATOSx' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/DxIb5oWzpg24mmg9D9zw5Y'
+global.sgc = 'https://chat.whatsapp.com/HGNH6ByjxtY6KIIQf31rva'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
@@ -65,7 +65,7 @@ global.owner = [
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['923470027813','68673045381','923191089077'] // Premium user is not here to add it, type .addprem @ user 10
+global.prems = ['94717845122','68673045381','923191089077'] // Premium user is not here to add it, type .addprem @ user 10
 
 
 global.lolkey = 'apikeymu'
@@ -97,24 +97,24 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 wa-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Dinuka- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'wa-ᴍᴅ-ᴠ𝟷'
+global.wm = 'ꪶ 𝐷 𝛪 𝛮 𝑈 𝛸 x 𝛩 𝐹 𝐹 𝛪 𝐶 𝛪 𝛥 𝐿 ꫂ' //Main Watermark
+global.wm2 = 'ꪶ 𝐷 𝛪 𝛮 𝑈 𝛸 x 𝛩 𝐹 𝐹 𝛪 𝐶 𝛪 𝛥 𝐿 ꫂ'
+global.wm3 = 'ꪶ 𝐷 𝛪 𝛮 𝑈 𝛸 x 𝛩 𝐹 𝐹 𝛪 𝐶 𝛪 𝛥 𝐿 ꫂ'
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
-global.titlebot = '🎋 ┊  DINUX-OFFICIAL࿐'
+global.titlebot = '🙈 ┊  ꪶ 𝐷 𝛪 𝛮 𝑈 𝛸 x 𝛩 𝐹 𝐹 𝛪 𝐶 𝛪 𝛥 𝐿 ꫂ'
 global.author = global.wm
-global.logo = 'https://i.ibb.co/P1mmdbj/20230318-161404.jpg'
+global.logo = 'https://i.ibb.co/jThYdmk/20230405-081007.jpg'
 
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/P1mmdbj/20230318-161404.jpg' //Main Thumbnail
-global.thumb2 = 'https://i.ibb.co/P1mmdbj/20230318-161404.jpg'
-global.thumbbc = 'https://i.ibb.co/P1mmdbj/20230318-161404.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumblvlup = 'https://i.ibb.co/P1mmdbj/20230318-161404.jpg'
-global.hwaifu = ['https://i.ibb.co/P1mmdbj/20230318-161404.jpg']
+global.thumb = 'https://i.ibb.co/jThYdmk/20230405-081007.jpg' //Main Thumbnail
+global.thumb2 = 'https://i.ibb.co/jThYdmk/20230405-081007.jpg'
+global.thumbbc = 'https://i.ibb.co/jThYdmk/20230405-081007.jpg' //For broadcast
+global.giflogo = 'https://i.ibb.co/jThYdmk/20230405-081007.jpg.mp4'
+global.thumblvlup = 'https://i.ibb.co/jThYdmk/20230405-081007.jpg'
+global.hwaifu = ['https://i.ibb.co/jThYdmk/20230405-081007.jpg']
 
 /*============== FlamingText ===========*/
 global.flaaa = [
@@ -140,7 +140,7 @@ global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 global.djson = 'application/json'
 
-global.thumbdoc = 'https://i.ibb.co/P1mmdbj/20230318-161404.jpg'
+global.thumbdoc = 'https://i.ibb.co/jThYdmk/20230405-081007.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '5644' // default 10TB
@@ -149,12 +149,12 @@ global.fpagedoc = '999'
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
 global.dmenut = 'ଓ═┅═━–〈' //top
-global.dmenub = '┊🇵🇰' //body
+global.dmenub = '┊🇱🇰' //body
 global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
 // COMMAND MENU
-global.dashmenu = '┅━━━═┅═❏ *ღ 𝘿𝘼𝙎𝙃𝘽𝙊𝘼𝙍𝘿 ღ* ❏═┅═━━━┅'
+global.dashmenu = '┅━━━═┅═❏ *ღꪶ 𝐷 𝛪 𝛮 𝑈 𝛸 x 𝛩 𝐹 𝐹 𝛪 𝐶 𝛪 𝛥 𝐿 ꫂღ* ❏═┅═━━━┅'
 global.cmenut = '❏––––––『'                       //top
 global.cmenuh = '』––––––'                        //header
 global.cmenub = '┊☯︎'                            //body
@@ -170,10 +170,10 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'x_ikratos_x'
-global.stickauth = `「 ᴅɪɴᴜx-ᴍᴅ-ᴠ𝟷 」`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ bot'
+global.stickpack = 'ꪶ 𝐷 𝛪 𝛮 𝑈 𝛸 x 𝛩 𝐹 𝐹 𝛪 𝐶 𝛪 𝛥 𝐿 ꫂ'
+global.stickauth = `ꪶ 𝐷 𝛪 𝛮 𝑈 𝛸 x 𝛩 𝐹 𝐹 𝛪 𝐶 𝛪 𝛥 𝐿 ꫂ`
+global.packname = '⚔ 𝐂𝐑𝐄𝐀𝐓𝐄 𝐁𝐘 ⚖️ ⚔ 𝐃𝐈𝐍𝐔𝐗 ⚖️ ⚔ 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 ⚖️'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ DINUKA 🇱🇰🌝'
 
 global.multiplier = 38 // The higher, The harder levelup
 
